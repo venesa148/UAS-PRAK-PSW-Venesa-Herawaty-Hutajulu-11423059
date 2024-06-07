@@ -1,0 +1,13 @@
+login Admin
+Bisa buat akun lebih dari satu melalui register
+Tapi ubah manual type didatabase nya menjadi = 1 
+untuk login contoh melihat laman admin
+gmail 	 : venesahutajulu@gmail.com
+Password : 123
+
+gmail    : admin@gmail.com
+Password : admin
+
+
+login user
+Bisa buat akun melalui register _terimakasih_

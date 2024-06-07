@@ -1,0 +1,18 @@
+Catatan: Dalam proyek praktikum saya diperlukan akses internet untuk tampilannya 
+Terimakasih
+
+
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3307
+DB_DATABASE=laravelban
+
+Akses # 3 role 
+
+Admin : 
+gmail: admin@gmail.com
+password :admincantik
+
+Player/user : Bisa login register 
+
+pengelola : Bisa login register (harus ditambahkan oleh admin)
